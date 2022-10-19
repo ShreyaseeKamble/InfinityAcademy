@@ -1,0 +1,67 @@
+table {
+  padding: 10px;
+}
+
+th, td {
+  padding: 5px;
+}
+
+table, th, td {
+  border: 1px solid;
+}
+
+th {
+  text-align: left;
+  position: sticky;
+  top: 0;
+  background-color: #2b3636;
+  color: white;
+}
+
+#table-wrapper {
+  position:relative;
+}
+
+#table-scroll {
+  height: 548px;
+  overflow-y :auto;
+}
+
+#table-wrapper table {
+  width: 100%;
+}
+
+#table-wrapper table {
+  color: black;
+}
+
+#table-wrapper th {
+  color: white;
+}
+
+#table-wrapper table thead th .text {
+  position:absolute;   
+  top:-20px;
+  z-index:2;
+  height:20px;
+  border:1px solid red;
+}
+
+.default_table {
+  height: 100%;
+  margin-right: 20px;
+}
+ 
+.tables_wrapper {
+  display: flex;
+  margin: 50px;
+}
+
+.web_table_text {
+  padding: 5px;
+  margin-bottom: 10px;
+  background-color: #2b3636;
+  border-radius: 10px;
+  width: fit-content;
+  color: white;
+}

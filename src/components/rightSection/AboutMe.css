@@ -1,0 +1,82 @@
+.about_me {
+  margin: 150px 10px;
+  display: flex;
+  flex-direction: column;
+  border-top: 1px solid darkgray;
+}
+
+.company_details {
+  display: flex;
+  justify-content: center;
+  margin: 50px 20px;
+  color: gray;
+}
+
+.footer {
+  text-align: center;
+}
+
+.contact_info {
+  text-align: left;
+  padding-left: 50px;
+}
+
+.about_me_text {
+  font-family: Arial;
+  font-size: 20px;
+}
+
+.about_me_text {
+  font-family: 'cursive' ;
+  font-weight: bold;
+  font-size: 30px;
+}
+
+.profile-info {
+  font-family: 'cursive' ;
+  font-size: 20px;
+}
+
+.profile_pic {
+  border-radius: 50%;
+}
+
+.profile_wrapper {
+  display: flex;
+}
+
+.read_more {
+  display: block;
+  font-family: 'cursive' ;
+  font-style: italic;
+  margin-top: 10px;
+}
+
+.name_wrapper {
+  text-align: right;
+  padding-right: 50px;
+  font-family: Arial;
+  font-size: 20px;
+  border-right: 1px solid black;
+  color: black;
+}
+
+.instagram, .youtube, .linkedIn {
+  padding-right: 5px;
+  color: blue;
+}
+
+.contact_text {
+  padding-right: 10px;
+  font-weight: bold;
+  color: black;
+}
+
+.tag_line {
+  font-size: 16px;
+  color: darkgray;
+}
+
+.creative_minds {
+  font-size: 20px;
+}

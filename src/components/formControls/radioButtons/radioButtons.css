@@ -1,0 +1,15 @@
+.radio_button_wrapper {
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    width: 33.33%;
+}
+
+.radio_button_text {
+    padding: 5px;
+    margin-bottom: 10px;
+    background-color: #2b3636;
+    border-radius: 10px;
+    width: fit-content;
+    color: white;
+}

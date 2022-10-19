@@ -1,0 +1,13 @@
+.selectbox_wrapper {
+  margin: 10px;
+  width: 33.33%;
+}
+
+.selectorbox_text {
+    padding: 5px;
+    margin-bottom: 10px;
+    background-color: #2b3636;
+    border-radius: 10px;
+    width: fit-content;
+    color: white;
+}
