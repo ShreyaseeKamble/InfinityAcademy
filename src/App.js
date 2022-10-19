@@ -11,7 +11,6 @@ import project from './images/projects.jpg';
 import selenium from './images/selenium.jpg';
 import movies from "./movies";
 import './App.css';
-import LoginGA from './components/GoogleAuth/loginGA';
 
 function App() {
   const [ isLogin, setIsLogin ] = useState(false);
